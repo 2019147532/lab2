@@ -1,0 +1,47 @@
+.header {
+    font-family: "돋움체";
+    font-size: 30px;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+
+.log {
+    margin-left: 10px;
+}
+.headerlog {
+    width: 70px;
+    height: 20px;
+    margin-left: 10px;
+    border-top: solid 2px red;
+    border-bottom: solid 2px red;
+    
+    
+}
+
+.form {
+    margin-left: 10px;
+}
+
+
+.button1 {
+    background-color: skyblue;
+    width: 100px;
+    height: 25px;
+    border-radius: 10px;
+    text-align: center;
+    margin: 1px;
+    padding: 1px;
+    color: black;
+    border: groove gray;
+}
+.button2 {
+    background-color: pink;
+    width: 100px;
+    height: 25px;
+    border-radius: 10px;
+    text-align: center;
+    margin: 1px;
+    padding: 1px;
+    color: black;
+    border: groove gray;
+}
